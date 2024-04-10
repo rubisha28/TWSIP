@@ -1,5 +1,5 @@
 
-1. main.java  -   ATM Interface:
+1. main.java  -   ATM Interface
    
 TWSIP Task 2: Introducing a digital ATM brought to life with Java Swing, offering a straightforward and secure solution for managing financial needs.
 * For security purposes, users can log in using their account number and PIN.
